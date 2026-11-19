@@ -1,0 +1,17 @@
+---
+title: "Sophie Kehoe Practice"
+author: "Sophie Kehoe"
+format: html
+editor: visual
+---
+
+# Overview
+
+Insert text here for overview of project
+
+# Add Code
+
+```{r}
+data(mtcars)
+plot(mtcars$hp, mtcars$mpg)
+```
