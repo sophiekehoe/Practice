@@ -1,0 +1,10 @@
+---
+title: "Second quarto document"
+author: "Sophie Kehoe"
+format: html
+editor: visual
+---
+
+# Another quarto document 
+
+Second document that links from my home page
